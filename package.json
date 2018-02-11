@@ -1,8 +1,8 @@
 {
-  "name": "eslint-plugin-loki",
+  "name": "eslint-config-loki",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "git@github.com:subbu963/eslint-plugin-loki.git",
+  "repository": "git@github.com:subbu963/eslint-config-loki.git",
   "author": "subramanyam963@gmail.com",
   "license": "MIT",
   "peerDependencies": {
