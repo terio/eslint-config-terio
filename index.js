@@ -33,6 +33,10 @@ module.exports = {
             {
                 'varsIgnorePattern': 'createVirtualNode|loki'
             }
-        ]
-    }
+        ],
+        'react/jsx-uses-vars': 'error'
+    },
+    'plugins': [
+        'react'
+    ]
 };
