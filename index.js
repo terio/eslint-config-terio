@@ -31,7 +31,7 @@ module.exports = {
         'no-unused-vars': [
             'error',
             {
-                'varsIgnorePattern': 'createVirtualNode|loki'
+                'varsIgnorePattern': 'createVirtualNode|terio'
             }
         ],
         'react/jsx-uses-vars': 'error'

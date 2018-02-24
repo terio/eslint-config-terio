@@ -1,1 +1,1 @@
-# eslint-plugin-loki
+# eslint-plugin-terio

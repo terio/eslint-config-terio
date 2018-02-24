@@ -1,8 +1,8 @@
 {
-  "name": "eslint-config-loki",
+  "name": "eslint-config-terio",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "git@github.com:subbu963/eslint-config-loki.git",
+  "repository": "git@github.com:subbu963/eslint-config-terio.git",
   "author": "subramanyam963@gmail.com",
   "license": "MIT",
   "peerDependencies": {
